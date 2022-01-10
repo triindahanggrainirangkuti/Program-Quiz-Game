@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 print("Selamat datang di permainan kuis saya!")
 
 bermain = input("Apakah kamu ingin bermain? ")
@@ -86,10 +80,3 @@ else:
     
 print("Kamu berhasil menjawab " + str(skor)+ " pertanyaan yang benar")
 print("Kamu mendapatkan nilai " + str(skor/10 * 100)+"%.") 
-
-
-# In[ ]:
-
-
-
-
